@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Students Management System (React)
 
 A simple **Students Management System** built using **React.js**.
@@ -154,3 +155,6 @@ GitHub:
 * Backend Integration (NestJS + PostgreSQL)
 * Authentication
 * Dashboard UI
+=======
+# students-management-react
+>>>>>>> 6a05b28ab89faa172196b3cf0e409e44e5293e59
